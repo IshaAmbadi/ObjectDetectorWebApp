@@ -1,0 +1,71 @@
+body {
+    background-size: cover;
+    background-position: center;
+    
+}
+.header {
+font-size: 28px;
+width: 100%;
+margin: 0px;
+}
+
+#status {
+font-size: 24px;
+background-color: #ffb3ba;
+color: white;
+}
+
+canvas {
+    box-shadow: 10px 10px 5px rgb(115, 40, 182);
+    border-radius: 15px;
+    border-top: 5px rgb(115, 40, 182);
+    font-weight: bold;
+}
+
+#backbtn {
+    color: #bae1ff;
+    font-size: 25px;
+    width: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #bae1ff;
+    border-radius: 30px;
+    border: #bae1ff;
+    position: absolute;
+    bottom: 35px;
+    left: 20px;
+}body {
+    background-size: cover;
+    background-position: center;
+    
+}
+.header {
+font-size: 28px;
+width: 100%;
+margin: 0px;
+}
+
+#status {
+font-size: 24px;
+background-color: #ffb3ba;
+color: white;
+}
+
+canvas {
+    box-shadow: 10px 10px 5px rgb(115, 40, 182);
+    border-radius: 15px;
+    border-top: 5px rgb(115, 40, 182);
+    font-weight: bold;
+}
+
+#backbtn {
+    color: #bae1ff;
+    font-size: 25px;
+    width: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #bae1ff;
+    border-radius: 30px;
+    border: #bae1ff;
+    position: absolute;
+    bottom: 35px;
+    left: 20px;
+}
